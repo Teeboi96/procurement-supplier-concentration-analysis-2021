@@ -1,0 +1,6 @@
+-- Step 1: Calculate supplier totals per agency
+-- Step 2: Calculate total procurement value per agency
+-- Step 3: Compute supplier share within each agency
+-- Step 4: Identify the maximum supplier share per agency
+-- Step 5: Match the maximum share to get the top supplier
+-- Step 6: Classify dominance level
