@@ -44,3 +44,6 @@ The analysis shows that while supplier dominance is significant within individua
 ## Tools Used
 - MySQL  
 - SQL
+
+## Detailed Case Study
+https://paint-chamomile-3e2.notion.site/Procurement-Supplier-Concentration-Analysis-2021-33b5e986a8e2803fb1bceafcc10915a5?source=copy_link
